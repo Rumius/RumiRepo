@@ -3,9 +3,9 @@
 		"Author": "Rumius",
 		"Name": "Rumi Tools",
 		"Description": "A collection of tools for FFXIV.",
-		"InternalName": "RumiTools",
+		"InternalName": "RumiTool",
 		"AssemblyVersion": "0.1.0.0",
-		"RepoUrl": "https://github.com/Rumius/RumiTools",
+		"RepoUrl": "https://github.com/Rumius/RumiTool",
 		"IconUrl": "https://raw.githubusercontent.com/Rumius/RumiRepo/main/icons/rumi-tool.png",
 		"ApplicableVersion": "any",
 		"Tags": [
