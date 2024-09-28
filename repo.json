@@ -1,0 +1,23 @@
+[
+	{
+		"Author": "Rumius",
+		"Name": "Rumi Tools",
+		"Description": "A collection of tools for FFXIV.",
+		"InternalName": "RumiTools",
+		"AssemblyVersion": "0.1.0.0",
+		"RepoUrl": "https://github.com/Rumius/RumiTools",
+		"IconUrl": "https://raw.githubusercontent.com/Rumius/RumiRepo/main/icons/rumi-tool.png",
+		"ApplicableVersion": "any",
+		"Tags": [
+			"tools"
+		],
+		"DalamudApiLevel": 10,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"LastUpdated": 0,
+		"DownloadCount": 0,
+		"DownloadLinkInstall": "https://github.com/Rumius/RumiTools/releases/download/v0.1.0.0/RumiTools.zip",
+		"DownloadLinkTesting": "https://github.com/Rumius/RumiTools/releases/download/v0.1.0.0/RumiTools.zip",
+		"DownloadLinkUpdate": "https://github.com/Rumius/RumiTools/releases/download/v0.1.0.0/RumiTools.zip"
+	}
+]
